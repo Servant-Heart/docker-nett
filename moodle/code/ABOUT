@@ -1,0 +1,2 @@
+This is the mounted directory for the nett Docker container. It contains Moodle code.
+This file exists in order to keep this directory in tracking, since its needed on build.

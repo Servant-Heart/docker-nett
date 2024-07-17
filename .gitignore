@@ -1,0 +1,8 @@
+mariadb/dbdata/*
+!mariadb/dbdata/ABOUT
+
+moodle/code/*
+!moodle/code/ABOUT
+
+moodle/data/*
+!moodle/data/ABOUT
