@@ -16,7 +16,7 @@ services:
       - mariadb
     volumes:
       - ./moodle/code:/var/www/html
-      - ./moodle/data:/var/moodledata
+      - ./moodle/data:/var/www/moodledata
 
   mariadb:
     container_name: "nett_db"
