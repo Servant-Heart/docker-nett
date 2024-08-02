@@ -1,4 +1,4 @@
-FROM moodlehq/moodle-php-apache:7.4
+FROM moodlehq/moodle-php-apache:8.2
 
 # installs
 RUN apt-get update && apt update
